@@ -1,9 +1,9 @@
-hey im n-plsm, couldnt choose nplsm for some reasons
+hey welcome to my github page
+im a stupid teenager from france, i code in python 3.x and thats all
 
-i code stuff, especially in python 3.x
+social media : 
+discor : nplsm#0001
+email: nplasmaoff@gmail.com
 
-how to reach me:
-
-email : nplasmaoff@gmail.com
-
-discord : nplsm#3664
+thats all now you can leave my page since my projects are dogwater :)))))
+leave now
