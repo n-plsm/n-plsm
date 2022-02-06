@@ -1,9 +1,18 @@
-hey welcome to my github page
-im a stupid teenager from france, i code in python 3.x and thats all
+Hi, welcome to my GitHub page.
+  I'm nplsm, a teenager who codes in Python 3.
+  
+Currently working on :
+-  SysInfo [ver 1.0.1.0]
+   Small open-source project which tells you basic informations about your system / PC in an organized way.
+   
+(If you want to help me with some projects, join my Discord server)
 
-social media : 
-discor : nplsm#0001
-email: nplasmaoff@gmail.com
 
-thats all now you can leave my page since my projects are dogwater :)))))
-leave now
+
+SOCIAL MEDIA :
+
+Discord : nplsm#8634
+
+Discord server : https://discord.gg/Hd4yggydUN
+
+E-mail : nplamsaoff@gmail.com
