@@ -15,4 +15,4 @@ Discord : nplsm#8634
 
 Discord server : https://discord.gg/Hd4yggydUN
 
-E-mail : nplamsaoff@gmail.com
+E-mail : nplasmaoff@gmail.com
