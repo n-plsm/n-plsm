@@ -4,6 +4,8 @@ Hi, welcome to my GitHub page.
 Currently working on :
 -  SysInfo [ver 1.1.0]
    Small open-source project which tells you basic informations about your system / PC in an organized way.
+-  Hydrogen [ver 1.0.0]
+   Online chatting system that ressembles Discord except it's linked to an SQL database, and it's in Python.   
    
 (If you want to help me with some projects, join my Discord server)
 
