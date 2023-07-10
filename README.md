@@ -1,7 +1,7 @@
 ## nplsm
 
-**Full-stack developer and modder**
-**Based in Savoy, France**
+**Full-stack developer and modder**  
+**Based in Savoy, France**  
 **15 years old**  
 **Developing since Early 2019**
 
