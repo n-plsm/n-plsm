@@ -1,9 +1,9 @@
 ## nplsm
 
-#### 15 year-old Frontend and Backend developer and modder from France.
-
-**CURRENTLY WORKING ON**
-- NFSMW (2005) Online Blacklist
+#### Full-stack developer and modder
+#### Based in Savoy, France
+#### 15 years old
+##### Developing since Early 2019
 
 **CONTACT ME**
 - Email : nplasmaoff@gmail.com
