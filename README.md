@@ -11,11 +11,12 @@
 > to add the vanilla Blacklist system for online play
 
 **Progress > \[1%\]**  
-Join the [Discord](https://discord.gg/vpQKx87Wfe) to get updated about the mod
+Join the [Discord](https://discord.gg/vpQKx87Wfe) to get updated about the mod  
+Check my [secondary channel](https://www.youtube.com/@nplsm2) for small previews and proof of concepts
 
 
 ##### CONTACT ME
 - Email : nplasmaoff@gmail.com  
 - Discord : @nplsm  
-- Twitter : @nplsm_  
-- Instagram : @nplsm_  
+- Twitter : [@nplsm_](https://twitter.com/nplsm_)  
+- Instagram : [@nplsm_](https://www.instagram.com/nplsm_/)
