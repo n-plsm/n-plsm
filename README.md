@@ -5,12 +5,10 @@
 **15 years old**  
 **Developing since Early 2019**
 
-#### Current ongoing projects
-- NFS Most Wanted : Blacklist Online  
+### Current ongoing projects
+\- NFS Most Wanted : Blacklist Online  
 > Blacklist Online is a custom-coded mod for NFS Most Wanted that attempts  
 > to add the vanilla Blacklist system for online play
-
-**Progress > \[1%\]**  
 Join the [Discord](https://discord.gg/vpQKx87Wfe) to get updated about the mod  
 Check my [secondary channel](https://www.youtube.com/@nplsm2) for small previews and proof of concepts
 
