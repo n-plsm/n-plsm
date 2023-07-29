@@ -1,8 +1,6 @@
 ## nplsm
 
 **Full-stack developer and modder**  
-**Member of the Horizon Dev Team**  
-*Horizon is a development team from France consisting mainly of two members*  
 **Based in Savoy, France**  
 **15 years old**  
 **Developing since Early 2019**
