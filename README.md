@@ -12,6 +12,9 @@
 Join the [Discord](https://discord.gg/vpQKx87Wfe) to get updated about the mod  
 Check my [secondary channel](https://www.youtube.com/@nplsm2) for small previews and proof of concepts
 
+\- FFMPEGtool
+> Simple batch tool for easier use with FFMPEG
+
 
 ##### CONTACT ME
 - Email : nplasmaoff@gmail.com  
