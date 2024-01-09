@@ -1,28 +1,27 @@
-## nplsm
+# nplsm
 
-**Full-stack developer and modder**  
-**Based in Savoy, France**  
-**16 years old**  
-**Developing since Early 2019**
+## **about me**
+> 16-year-old dev\
+> 6 years of experience\
+> main languages are batch and python
 
-### Current ongoing projects
-\- BatchPlus [WIP]
-> Fully Batch coded compiler and code editor for Batch, while adding onto the 
-> programming language with better syntax and more commands to execute.
+## **ongoing projects**
+> **batchplus**\
+> batchplus is a batch-coded extension to the language with
+> - extended command list
+> - custom text editor made for use with batchplus (.batp) files
+> - program compiler to run .batp programs in a .bat file\
+>
+> *this program is meant to make programming easier while not having users be forced to install batchplus*\
+> *no current public release yet*
 
+> **ffmpegtool**\
+> ffmpegtool is a program used to make manipulating ffmpeg easier, without the use of command lines or editing software
+>
+> *no current public release yet*
 
-\- NFS Most Wanted : Blacklist Online [CANCELLED]
-> Blacklist Online is a custom-coded mod for NFS Most Wanted that attempts  
-> to add the vanilla Blacklist system for online play
-Join the [Discord](https://discord.gg/vpQKx87Wfe) to get updated about the mod  
-Check my [secondary channel](https://www.youtube.com/@nplsm2) for small previews and proof of concepts
-
-\- FFMPEGtool [ON HOLD]
-> Simple batch tool for easier use with FFMPEG
-
-
-##### CONTACT ME
-- Email : nplasmaoff@gmail.com  
-- Discord : @nplsm  
-- Twitter : [@nplsm_](https://twitter.com/nplsm_)  
-- Instagram : [@nplsm_](https://www.instagram.com/nplsm_/)
+## contact me
+discord: nplsm\
+twitter: [nplsm_](twitter.com/nplsm_)\
+insta: [nplsm_](instagram.com/nplsm_)\
+email: nplasmaoff@gmail.com
