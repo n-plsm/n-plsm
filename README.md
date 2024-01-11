@@ -28,11 +28,11 @@ email: nplasmaoff@gmail.com
 
 ## hardware/software
 **pc**
-> model: msi gf63 12ve
-> screen: 144hz 1920x1080
-> os: windows 11 home
-> cpu: 12th gen intel i5-12450h 2ghz
-> gpu: nvidia rtx 4050 laptop
+> model: msi gf63 12ve\
+> screen: 144hz 1920x1080\
+> os: windows 11 home\
+> cpu: 12th gen intel i5-12450h 2ghz\
+> gpu: nvidia rtx 4050 laptop\
 > ram: 16gb
 
 **keyboard**
