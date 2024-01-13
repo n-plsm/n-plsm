@@ -35,12 +35,6 @@ email: nplasmaoff@gmail.com
 > gpu: nvidia rtx 4050 laptop\
 > ram: 16gb
 
-**keyboard**
-> model: royal kludge 84 (white, blue led)
-
-**mouse**
-> model: logitech g502
-
 **actual software**
 > coding ide: visual studio code
 
