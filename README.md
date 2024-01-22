@@ -6,13 +6,19 @@
 > main languages are batch and python
 
 ## **ongoing projects**
+> **adminium server manager**\
+> ASM is a tool used for managing and hosting minecraft .jar servers
+> this tool is mostly aimed for older version of minecraft that are often not supported by
+> classic online serer hosters
+>
+> *no current public release yet*
+
 > **batchplus**\
 > batchplus is a batch-coded extension to the language with
 > - extended command list
 > - custom text editor made for use with batchplus (.batp) files
 > - program compiler to run .batp programs in a .bat file\
 >
-> *this program is meant to make programming easier while not having users be forced to install batchplus*\
 > *no current public release yet*
 
 > **ffmpegtool**\
