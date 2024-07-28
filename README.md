@@ -13,12 +13,9 @@
 >
 > *no current public release yet*
 
-> **batchplus**\
-> batchplus is a batch-coded extension to the language with
-> - extended command list
-> - custom text editor made for use with batchplus (.batp) files
-> - program compiler to run .batp programs in a .bat file\
->
+> **basm**\
+> first attempt at a programming language (sort of)
+> interpreted language inside of the batch console with assembly like instructions
 > *no current public release yet*
 
 > **ffmpegtool**\
