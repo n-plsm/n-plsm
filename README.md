@@ -2,7 +2,7 @@
 
 ## **about me**
 > 16-year-old dev\
-> 6 years of experience in batch scripting
+> 6 years of experience in batch scripting\
 > 3 years in python coding
 
 ## **ongoing projects**
