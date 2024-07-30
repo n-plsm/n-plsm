@@ -2,8 +2,8 @@
 
 ## **about me**
 > 16-year-old dev\
-> 6 years of experience\
-> main languages are batch and python
+> 6 years of experience in batch scripting
+> 3 years in python coding
 
 ## **ongoing projects**
 > **adminium server manager**\
