@@ -5,25 +5,6 @@
 > 6 years of experience in batch scripting\
 > 3 years in python coding
 
-## **ongoing projects**
-> **adminium server manager**\
-> ASM is a tool used for managing and hosting minecraft .jar servers
-> this tool is mostly aimed for older version of minecraft that are often not supported by
-> classic online serer hosters
->
-> *no current public release yet*
-
-> **basm**\
-> first attempt at a programming language (sort of)
-> interpreted language inside of the batch console with assembly like instructions
-> 
-> *no current public release yet*
-
-> **ffmpegtool**\
-> ffmpegtool is a program used to make manipulating ffmpeg easier, without the use of command lines or editing software
->
-> *no current public release yet*
-
 ## contact me
 discord: nplsm\
 twitter: [nplsm_](twitter.com/nplsm_)\
