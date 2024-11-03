@@ -1,15 +1,9 @@
-Hi i make stuff, sometimes
-
-Main languages are batch and python
-
-Coding since 2018
-
-I mostly focus on Batch and try to push this language to its limits
+i make stuff, sometimes.
 
 
+i mostly focus on Batch scripting and i try to push this language to its limits.
 
-Specs :
+current ongoing projects :
 
-CPU : intel core i5 12th gen
-
-GPU : nvidia rtx 4050 laptop
+- BCC65, a batch tool that makes compiling assembly code with cc65 easier.
+- currently trying to learn 6502 assembly
